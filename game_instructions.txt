@@ -1,0 +1,13 @@
+> Create a Deck of cards
+> Create 4 Players (P1, P2, P3, P4)
+> Draw 4 cards in field
+> Divide 4 cards for each player
+> Asume you are player P1, print the hand of P1
+> Game has number of rounds until deck cards are finished
+	> Each player plays 1 card
+	> if current.player card is same as previous:
+		if number of cards in field is "one":
+			than print XingXingXing
+				count 10 extra points
+		current player collects cards in field
+		
